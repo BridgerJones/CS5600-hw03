@@ -1,0 +1,378 @@
+*** Training 784x10x10x10 ANN with eta=0.5
+Epoch 0: 6737 / 10000
+Epoch 1: 8302 / 10000
+Epoch 2: 8718 / 10000
+Epoch 3: 8851 / 10000
+Epoch 4: 8940 / 10000
+Epoch 5: 8939 / 10000
+Epoch 6: 9010 / 10000
+Epoch 7: 9043 / 10000
+Epoch 8: 9052 / 10000
+Epoch 9: 9103 / 10000
+*** Training 784x10x10x10 ANN DONE...
+
+
+*** Training 784x10x10x10 ANN with eta=0.25
+Epoch 0: 4253 / 10000
+Epoch 1: 6506 / 10000
+Epoch 2: 7749 / 10000
+Epoch 3: 8204 / 10000
+Epoch 4: 8436 / 10000
+Epoch 5: 8560 / 10000
+Epoch 6: 8641 / 10000
+Epoch 7: 8714 / 10000
+Epoch 8: 8702 / 10000
+Epoch 9: 8778 / 10000
+*** Training 784x10x10x10 ANN DONE...
+
+
+*** Training 784x10x10x10 ANN with eta=0.125
+Epoch 0: 3548 / 10000
+Epoch 1: 5271 / 10000
+Epoch 2: 6290 / 10000
+Epoch 3: 7006 / 10000
+Epoch 4: 7255 / 10000
+Epoch 5: 7511 / 10000
+Epoch 6: 7809 / 10000
+Epoch 7: 7982 / 10000
+Epoch 8: 8134 / 10000
+Epoch 9: 8286 / 10000
+*** Training 784x10x10x10 ANN DONE...
+
+
+*** Training 784x10x25x10 ANN with eta=0.5
+Epoch 0: 7632 / 10000
+Epoch 1: 8443 / 10000
+Epoch 2: 8688 / 10000
+Epoch 3: 8808 / 10000
+Epoch 4: 8881 / 10000
+Epoch 5: 8986 / 10000
+Epoch 6: 8999 / 10000
+Epoch 7: 9072 / 10000
+Epoch 8: 9037 / 10000
+Epoch 9: 9110 / 10000
+*** Training 784x10x25x10 ANN DONE...
+
+
+*** Training 784x10x25x10 ANN with eta=0.25
+Epoch 0: 6345 / 10000
+Epoch 1: 7500 / 10000
+Epoch 2: 8122 / 10000
+Epoch 3: 8402 / 10000
+Epoch 4: 8589 / 10000
+Epoch 5: 8675 / 10000
+Epoch 6: 8741 / 10000
+Epoch 7: 8772 / 10000
+Epoch 8: 8839 / 10000
+Epoch 9: 8861 / 10000
+*** Training 784x10x25x10 ANN DONE...
+
+
+*** Training 784x10x25x10 ANN with eta=0.125
+Epoch 0: 4473 / 10000
+Epoch 1: 5947 / 10000
+Epoch 2: 6953 / 10000
+Epoch 3: 7519 / 10000
+Epoch 4: 7801 / 10000
+Epoch 5: 8065 / 10000
+Epoch 6: 8343 / 10000
+Epoch 7: 8499 / 10000
+Epoch 8: 8583 / 10000
+Epoch 9: 8634 / 10000
+*** Training 784x10x25x10 ANN DONE...
+
+
+*** Training 784x10x50x10 ANN with eta=0.5
+Epoch 0: 7316 / 10000
+Epoch 1: 7826 / 10000
+Epoch 2: 8014 / 10000
+Epoch 3: 8859 / 10000
+Epoch 4: 8933 / 10000
+Epoch 5: 8957 / 10000
+Epoch 6: 9015 / 10000
+Epoch 7: 9062 / 10000
+Epoch 8: 9104 / 10000
+Epoch 9: 9101 / 10000
+*** Training 784x10x50x10 ANN DONE...
+
+
+*** Training 784x10x50x10 ANN with eta=0.25
+Epoch 0: 7100 / 10000
+Epoch 1: 8042 / 10000
+Epoch 2: 8467 / 10000
+Epoch 3: 8630 / 10000
+Epoch 4: 8742 / 10000
+Epoch 5: 8810 / 10000
+Epoch 6: 8884 / 10000
+Epoch 7: 8908 / 10000
+Epoch 8: 8954 / 10000
+Epoch 9: 8989 / 10000
+*** Training 784x10x50x10 ANN DONE...
+
+
+*** Training 784x10x50x10 ANN with eta=0.125
+Epoch 0: 5352 / 10000
+Epoch 1: 6817 / 10000
+Epoch 2: 7558 / 10000
+Epoch 3: 7939 / 10000
+Epoch 4: 8192 / 10000
+Epoch 5: 8341 / 10000
+Epoch 6: 8472 / 10000
+Epoch 7: 8551 / 10000
+Epoch 8: 8602 / 10000
+Epoch 9: 8660 / 10000
+*** Training 784x10x50x10 ANN DONE...
+
+
+*** Training 784x25x10x10 ANN with eta=0.5
+Epoch 0: 7403 / 10000
+Epoch 1: 8403 / 10000
+Epoch 2: 8750 / 10000
+Epoch 3: 8934 / 10000
+Epoch 4: 9034 / 10000
+Epoch 5: 9079 / 10000
+Epoch 6: 9152 / 10000
+Epoch 7: 9158 / 10000
+Epoch 8: 9178 / 10000
+Epoch 9: 9208 / 10000
+*** Training 784x25x10x10 ANN DONE...
+
+
+*** Training 784x25x10x10 ANN with eta=0.25
+Epoch 0: 6234 / 10000
+Epoch 1: 7701 / 10000
+Epoch 2: 8304 / 10000
+Epoch 3: 8562 / 10000
+Epoch 4: 8666 / 10000
+Epoch 5: 8779 / 10000
+Epoch 6: 8853 / 10000
+Epoch 7: 8907 / 10000
+Epoch 8: 8942 / 10000
+Epoch 9: 8973 / 10000
+*** Training 784x25x10x10 ANN DONE...
+
+
+*** Training 784x25x10x10 ANN with eta=0.125
+Epoch 0: 2211 / 10000
+Epoch 1: 4056 / 10000
+Epoch 2: 5527 / 10000
+Epoch 3: 6418 / 10000
+Epoch 4: 7119 / 10000
+Epoch 5: 7622 / 10000
+Epoch 6: 7938 / 10000
+Epoch 7: 8157 / 10000
+Epoch 8: 8307 / 10000
+Epoch 9: 8415 / 10000
+*** Training 784x25x10x10 ANN DONE...
+
+
+*** Training 784x25x25x10 ANN with eta=0.5
+Epoch 0: 8083 / 10000
+Epoch 1: 8724 / 10000
+Epoch 2: 8918 / 10000
+Epoch 3: 9040 / 10000
+Epoch 4: 9115 / 10000
+Epoch 5: 9188 / 10000
+Epoch 6: 9204 / 10000
+Epoch 7: 9238 / 10000
+Epoch 8: 9253 / 10000
+Epoch 9: 9277 / 10000
+*** Training 784x25x25x10 ANN DONE...
+
+
+*** Training 784x25x25x10 ANN with eta=0.25
+Epoch 0: 7769 / 10000
+Epoch 1: 8401 / 10000
+Epoch 2: 8656 / 10000
+Epoch 3: 8807 / 10000
+Epoch 4: 8899 / 10000
+Epoch 5: 8963 / 10000
+Epoch 6: 9028 / 10000
+Epoch 7: 9067 / 10000
+Epoch 8: 9116 / 10000
+Epoch 9: 9135 / 10000
+*** Training 784x25x25x10 ANN DONE...
+
+
+*** Training 784x25x25x10 ANN with eta=0.125
+Epoch 0: 5160 / 10000
+Epoch 1: 6606 / 10000
+Epoch 2: 7211 / 10000
+Epoch 3: 7575 / 10000
+Epoch 4: 7789 / 10000
+Epoch 5: 8299 / 10000
+Epoch 6: 8531 / 10000
+Epoch 7: 8663 / 10000
+Epoch 8: 8776 / 10000
+Epoch 9: 8833 / 10000
+*** Training 784x25x25x10 ANN DONE...
+
+
+*** Training 784x25x50x10 ANN with eta=0.5
+Epoch 0: 8539 / 10000
+Epoch 1: 8890 / 10000
+Epoch 2: 9035 / 10000
+Epoch 3: 9106 / 10000
+Epoch 4: 9161 / 10000
+Epoch 5: 9203 / 10000
+Epoch 6: 9188 / 10000
+Epoch 7: 9248 / 10000
+Epoch 8: 9250 / 10000
+Epoch 9: 9309 / 10000
+*** Training 784x25x50x10 ANN DONE...
+
+
+*** Training 784x25x50x10 ANN with eta=0.25
+Epoch 0: 7741 / 10000
+Epoch 1: 8434 / 10000
+Epoch 2: 8735 / 10000
+Epoch 3: 8835 / 10000
+Epoch 4: 8949 / 10000
+Epoch 5: 9008 / 10000
+Epoch 6: 9066 / 10000
+Epoch 7: 9098 / 10000
+Epoch 8: 9141 / 10000
+Epoch 9: 9166 / 10000
+*** Training 784x25x50x10 ANN DONE...
+
+
+*** Training 784x25x50x10 ANN with eta=0.125
+Epoch 0: 5484 / 10000
+Epoch 1: 6664 / 10000
+Epoch 2: 7015 / 10000
+Epoch 3: 7778 / 10000
+Epoch 4: 7953 / 10000
+Epoch 5: 8048 / 10000
+Epoch 6: 8118 / 10000
+Epoch 7: 8172 / 10000
+Epoch 8: 8204 / 10000
+Epoch 9: 8250 / 10000
+*** Training 784x25x50x10 ANN DONE...
+
+
+*** Training 784x50x10x10 ANN with eta=0.5
+Epoch 0: 7848 / 10000
+Epoch 1: 8696 / 10000
+Epoch 2: 8882 / 10000
+Epoch 3: 9034 / 10000
+Epoch 4: 9092 / 10000
+Epoch 5: 9153 / 10000
+Epoch 6: 9195 / 10000
+Epoch 7: 9220 / 10000
+Epoch 8: 9255 / 10000
+Epoch 9: 9268 / 10000
+*** Training 784x50x10x10 ANN DONE...
+
+
+*** Training 784x50x10x10 ANN with eta=0.25
+Epoch 0: 6243 / 10000
+Epoch 1: 7607 / 10000
+Epoch 2: 8284 / 10000
+Epoch 3: 8626 / 10000
+Epoch 4: 8797 / 10000
+Epoch 5: 8899 / 10000
+Epoch 6: 8970 / 10000
+Epoch 7: 9028 / 10000
+Epoch 8: 9089 / 10000
+Epoch 9: 9111 / 10000
+*** Training 784x50x10x10 ANN DONE...
+
+
+*** Training 784x50x10x10 ANN with eta=0.125
+Epoch 0: 4360 / 10000
+Epoch 1: 5330 / 10000
+Epoch 2: 6493 / 10000
+Epoch 3: 7303 / 10000
+Epoch 4: 7734 / 10000
+Epoch 5: 8005 / 10000
+Epoch 6: 8137 / 10000
+Epoch 7: 8382 / 10000
+Epoch 8: 8557 / 10000
+Epoch 9: 8654 / 10000
+*** Training 784x50x10x10 ANN DONE...
+
+
+*** Training 784x50x25x10 ANN with eta=0.5
+Epoch 0: 8334 / 10000
+Epoch 1: 8816 / 10000
+Epoch 2: 8987 / 10000
+Epoch 3: 9116 / 10000
+Epoch 4: 9162 / 10000
+Epoch 5: 9213 / 10000
+Epoch 6: 9244 / 10000
+Epoch 7: 9269 / 10000
+Epoch 8: 9277 / 10000
+Epoch 9: 9308 / 10000
+*** Training 784x50x25x10 ANN DONE...
+
+
+*** Training 784x50x25x10 ANN with eta=0.25
+Epoch 0: 7038 / 10000
+Epoch 1: 7795 / 10000
+Epoch 2: 8615 / 10000
+Epoch 3: 8845 / 10000
+Epoch 4: 8941 / 10000
+Epoch 5: 9032 / 10000
+Epoch 6: 9078 / 10000
+Epoch 7: 9109 / 10000
+Epoch 8: 9161 / 10000
+Epoch 9: 9188 / 10000
+*** Training 784x50x25x10 ANN DONE...
+
+
+*** Training 784x50x25x10 ANN with eta=0.125
+Epoch 0: 5830 / 10000
+Epoch 1: 6953 / 10000
+Epoch 2: 7386 / 10000
+Epoch 3: 7633 / 10000
+Epoch 4: 7780 / 10000
+Epoch 5: 7863 / 10000
+Epoch 6: 7940 / 10000
+Epoch 7: 7986 / 10000
+Epoch 8: 8033 / 10000
+Epoch 9: 8905 / 10000
+*** Training 784x50x25x10 ANN DONE...
+
+
+*** Training 784x50x50x10 ANN with eta=0.5
+Epoch 0: 958 / 10000
+Epoch 1: 958 / 10000
+Epoch 2: 7965 / 10000
+Epoch 3: 8173 / 10000
+Epoch 4: 8259 / 10000
+Epoch 5: 8304 / 10000
+Epoch 6: 8339 / 10000
+Epoch 7: 8360 / 10000
+Epoch 8: 8384 / 10000
+Epoch 9: 8410 / 10000
+*** Training 784x50x50x10 ANN DONE...
+
+
+*** Training 784x50x50x10 ANN with eta=0.25
+Epoch 0: 7144 / 10000
+Epoch 1: 8378 / 10000
+Epoch 2: 8756 / 10000
+Epoch 3: 8927 / 10000
+Epoch 4: 8999 / 10000
+Epoch 5: 9042 / 10000
+Epoch 6: 9101 / 10000
+Epoch 7: 9141 / 10000
+Epoch 8: 9178 / 10000
+Epoch 9: 9198 / 10000
+*** Training 784x50x50x10 ANN DONE...
+
+
+*** Training 784x50x50x10 ANN with eta=0.125
+Epoch 0: 6688 / 10000
+Epoch 1: 7928 / 10000
+Epoch 2: 8354 / 10000
+Epoch 3: 8574 / 10000
+Epoch 4: 8687 / 10000
+Epoch 5: 8805 / 10000
+Epoch 6: 8848 / 10000
+Epoch 7: 8917 / 10000
+Epoch 8: 8959 / 10000
+Epoch 9: 9004 / 10000
+*** Training 784x50x50x10 ANN DONE...
+
+
