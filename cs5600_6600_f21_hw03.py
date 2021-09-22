@@ -16,7 +16,7 @@ def train_1_hidden_layer_anns(hls=HLS, eta=ETA, mini_batch_size=10, num_epochs=1
             network.mini_batch_sgd(train_d, num_epochs, mini_batch_size, n, test_data=test_d)
             print(f"*** Training 784x{h}x10 ANN DONE...\n\n")
 
-            
+
 def train_2_hidden_layer_anns(hls=HLS, eta=ETA, mini_batch_size=10, num_epochs=10):
     for h in hls:
         for h_2 in hls:
@@ -28,5 +28,5 @@ def train_2_hidden_layer_anns(hls=HLS, eta=ETA, mini_batch_size=10, num_epochs=1
 
 ### Uncomment to run
 if __name__ == '__main__':
-    #train_1_hidden_layer_anns(hls=HLS, eta=ETA, mini_batch_size=10, num_epochs=10)
+    train_1_hidden_layer_anns(hls=HLS, eta=ETA, mini_batch_size=10, num_epochs=10)
     train_2_hidden_layer_anns(hls=HLS, eta=ETA, mini_batch_size=10, num_epochs=10)
